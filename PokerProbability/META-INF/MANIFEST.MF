@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PokerProbability
+Bundle-SymbolicName: PokerProbability
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: PokerProbability
+Bundle-RequiredExecutionEnvironment: JavaSE-16
